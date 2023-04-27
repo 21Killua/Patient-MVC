@@ -2,11 +2,11 @@
 Les interfaces qui concernent l'admin  
 
 Page de LOGIN :  
-<img width="453" alt="image" src="https://user-images.githubusercontent.com/120782177/234781961-97e07ce2-be86-4c12-869e-425a01603092.png">
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/120782177/234781961-97e07ce2-be86-4c12-869e-425a01603092.png">  
 Page d'accueil :  
 
 C'est la page qui affiche les informations des patients avec la possibilité de modifier ou supprimer  
-<img width="453" alt="image" src="https://user-images.githubusercontent.com/120782177/234782067-a797e061-326f-42fe-aac7-c306f6938e24.png">
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/120782177/234782067-a797e061-326f-42fe-aac7-c306f6938e24.png">  
 La page d'ajout :  
 
 En cliquant sur Patient>Nouveau dans le menu, nous aurons accès à la page d'ajout où nous pourrons remplir un formulaire concernant le patient que nous voulons ajouter.  
